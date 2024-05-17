@@ -4,19 +4,19 @@ body {
 
 .container-navbar {
     background-color: Blue;
-    width: 150px
-    height: 100px
+    width: 500px
+    height: 200px
 }
 
 .ul-navbar {
     background-color: DarkCyan;
-    width: 150px
-    height: 100px
+    width: 500px
+    height: 200px
 }
 
 .li-navbar {
     border: 2px solid gray;
     list-style-type: none;
-    width: 150px
-    height: 100px
+    width: 500px
+    height: 300px
 }
