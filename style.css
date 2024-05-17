@@ -4,8 +4,6 @@ body {
 
 .container-navbar {
     background-color: Blue;
-    width: 500px
-    height: 200px
 }
 
 .ul-navbar {
@@ -17,6 +15,4 @@ body {
 .li-navbar {
     border: 2px solid gray;
     list-style-type: none;
-    width: 500px
-    height: 300px
 }
